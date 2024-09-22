@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jaikishan223/kanban-board-app/static/css/main.f26bc7f2.css",
+    "main.js": "/jaikishan223/kanban-board-app/static/js/main.bb2bdea5.js",
+    "index.html": "/jaikishan223/kanban-board-app/index.html",
+    "static/media/SVG - Urgent Priority colour.svg": "/jaikishan223/kanban-board-app/static/media/SVG - Urgent Priority colour.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "main.f26bc7f2.css.map": "/jaikishan223/kanban-board-app/static/css/main.f26bc7f2.css.map",
+    "main.bb2bdea5.js.map": "/jaikishan223/kanban-board-app/static/js/main.bb2bdea5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26bc7f2.css",
+    "static/js/main.bb2bdea5.js"
+  ]
+}
